@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImageEXIFScanner": {
+      "commandName": "Project",
+      "commandLineArgs": "--path \"c:\\users\\admin\\Pictures\\0C7CF094-76FF-478D-A67F-213DE88A1CD2.jpg\""
+    }
+  }
+}
